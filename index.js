@@ -30,7 +30,5 @@ function preserveDecimal(n){
   return parseFloat(n);
 }
 
-let a = 1;
-console.log(a++);    // 1
-console.log(a);      // 2
+
 

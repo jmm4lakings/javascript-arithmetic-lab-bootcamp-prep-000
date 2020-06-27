@@ -30,7 +30,6 @@ function preserveDecimal(n){
   return parseFloat(n);
 }
 
-function inc(n) {
-  var number = 10;
-  return n += 5;
+function inc(n) (a,b){
+  return inc(n)a+b;
 }

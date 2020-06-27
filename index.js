@@ -30,6 +30,6 @@ function preserveDecimal(n){
   return parseFloat(n);
 }
 
-function inc(n) (a,b){
-  return inc(n)a+b;
+function inc(n) (a++b){
+  return inc(n)a++b;
 }
